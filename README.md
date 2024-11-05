@@ -93,7 +93,6 @@ Me chamo Kaio Grativol Baldo, tenho 21 anos e sou natural do Rio de janeiro. Con
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=KaioGBaldo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
 <img 
       align="left" 
       alt="GitHub Stats" 
