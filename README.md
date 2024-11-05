@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Kaio G Baldo
 
-**`Desenvolvedora Front-End`**
+**`Desenvolvedor Front-End`**
 
 Me chamo Kaio Grativol Baldo, tenho 21 anos e sou natural do Rio de janeiro. Concluí o ensino médio em 2019, no CENA. Atualmente, estou fazendo cursos de Programação para me aperfeiçoar e ingressar na área totalmente. Sou apaixonado desde cedo por tecnologia e comecei a compartilhar minhas ideias e conhecimento com meu canal no YouTube "[Ace](https://www.youtube.com/@0nly4c3)", onde ensino de tudo um pouco, e uso como meu diário pessoal.
 
@@ -65,14 +65,6 @@ Me chamo Kaio Grativol Baldo, tenho 21 anos e sou natural do Rio de janeiro. Con
 />
 <img 
     align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
     alt="JQuery" 
     title="JQuery"
     width="30px" 
@@ -86,14 +78,6 @@ Me chamo Kaio Grativol Baldo, tenho 21 anos e sou natural do Rio de janeiro. Con
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
 <br/>
